@@ -1,7 +1,7 @@
 /* Apply a background color to the body */
 body {
     background-color: #EFEFEF;
-    background-image: url("/Users/bretlotti/repos/recipes/images/foodbackground.jpeg");
+    background-image: url("../images/foodbackground.jpeg");
     background-size: cover;
     background-position: center;
     font-family: 'Open Sans', sans-serif;
