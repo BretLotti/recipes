@@ -1,7 +1,7 @@
 /* Apply a background color to the body */
 body {
     background-color: #EFEFEF;
-    background-image: url("../images/foodbackground.jpeg");
+    background-image: url("../images/background2.jpeg");
     background-size: cover;
     background-position: center;
     font-family: 'Open Sans', sans-serif;
@@ -11,6 +11,7 @@ body {
 header {
     text-align: center;
     margin-top: 2em;
+    text-decoration: underline;
 }
 
 /* Style the main content */
@@ -54,3 +55,7 @@ footer {
     position: fixed;
     bottom: 0;
   }
+
+img {
+    border: 1px solid black;
+}
